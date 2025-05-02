@@ -10,10 +10,6 @@ This repository contains my solution to **Assignment 7** for **CMPUT 267: Machin
 - Polynomial Feature Transformation
 - Overfitting and Generalization Visualization
 
-## Files
-- `Assignment7.ipynb`: The main Jupyter notebook containing code, answers, plots, and Otter-Grader auto-graded results.
-- `tests/`: Directory of test cases used by Otter-Grader for public evaluations (downloaded via script in the notebook).
-
 ## How to Run
 This assignment is designed to run in **Google Colab**. To run it locally, ensure you have the following installed:
 - Python 3.8+
